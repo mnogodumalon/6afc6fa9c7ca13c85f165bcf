@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "en": {
+      "Alle Umfragen sind abgeschlossen.": "All polls are closed.",
+      "Antworten ansehen": "View responses",
+      "Bearbeiten": "Edit",
+      "Bereit zum Festlegen": "Ready to finalize",
+      "Festlegen": "Finalize",
+      "Finalen Termin festlegen": "Set final date",
+      "Führend": "Leading",
+      "Geschlossen": "Closed",
+      "Keine Umfrage in dieser Auswahl.": "No polls in this selection.",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Neue Antworten": "New responses",
+      "Neue Antworten (7 Tage)": "New responses (7 days)",
+      "Neue Umfrage": "New poll",
+      "Nichts offen — alle Umfragen mit Antworten sind entschieden.": "Nothing open — all polls with responses have been decided.",
+      "Noch keine Antworten — teile den Link deiner Umfrage.": "No responses yet — share your poll link.",
+      "Noch keine Ja-Stimmen": "No Yes votes yet",
+      "Noch keine Umfrage — lege Terminvorschläge an und teile den Link.": "No polls yet — create date proposals and share the link.",
+      "Offen": "Open",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "No final date",
+      "Termin festlegen": "Set date",
+      "{0} Ja": "{0} Yes",
+      "{0} haben zuletzt abgestimmt — bei {1} gibt es Neues.": "{0} voted most recently — {1} has news.",
+      "{0} läuft noch — teile den Link, um Antworten zu sammeln.": "{0} is still running — share the link to collect responses.",
+      "{0} neu": "{0} new",
+      "{0} wartet auf deinen finalen Termin.": "{0} is waiting for your final date."
+    }
+  },
+  "v": 1
+}
